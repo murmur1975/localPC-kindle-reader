@@ -21,9 +21,11 @@
   },
   "page_turn": {
     "key": "left",
-    "post_turn_delay_sec": 0.5,
+    "lead_sentences_count": 2,
+    "post_turn_delay_sec": 0.4,
     "sync_timeout_sec": 3.0
   },
+
   "ocr": {
     "pad_top_ratio": 0.08,
     "pad_bottom_ratio": 0.06,
