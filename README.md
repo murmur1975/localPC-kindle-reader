@@ -29,22 +29,22 @@ Windows版「Kindle for PC」上の電子書籍を画面OCRで自動抽出し、
 
 ### 2. 起動方法
 
-#### 通常起動（全ページ連続読書）
+#### 最も簡単な方法（ダブルクリックで起動）
+1. [`run.bat`](./run.bat) をダブルクリックするだけで自動的に朗読プレイヤーが起動します。
+2. デスクトップにショートカットを置きたい場合は、[`create_desktop_shortcut.bat`](./create_desktop_shortcut.bat) をダブルクリックするとデスクトップに起動用アイコンが作成されます。
+
+#### コマンドラインから起動する場合（PowerShell等）
 ```powershell
+# 全ページ連続読書
 uv run python main.py
-```
 
-#### ページ数を指定して読書（例: 5ページだけ読む）
-```powershell
+# ページ数を指定して読書（例: 5ページだけ読む）
 uv run python main.py --pages 5
+
+# 横書き書籍の場合（めくりキーを右矢印またはPageDownにする）
+uv run python main.py --key right
 ```
 
-#### 横書き書籍の場合（めくりキーを右矢印またはPageDownにする）
-```powershell
-uv run python main.py --key right
-# または
-uv run python main.py --key pagedown
-```
 
 ---
 

@@ -2,9 +2,9 @@
 cd /d "%~dp0"
 
 if exist ".venv\Scripts\python.exe" (
-    ".venv\Scripts\python.exe" main.py %*
+    ".venv\Scripts\python.exe" scripts\create_shortcut.py
 ) else (
-    uv run python main.py %*
+    uv run python scripts\create_shortcut.py
 )
 
 if %ERRORLEVEL% neq 0 (
