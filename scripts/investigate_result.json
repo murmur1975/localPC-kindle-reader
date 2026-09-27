@@ -1,0 +1,517 @@
+[
+  {
+    "window": {
+      "title": "Kindle",
+      "class": "Microsoft.UI.Windowing.Window",
+      "handle": 411373456
+    },
+    "elements": [
+      {
+        "index": 0,
+        "control_type": "Pane",
+        "class_name": "InputNonClientPointerSource",
+        "automation_id": "",
+        "name": "Non Client Input Sink Window",
+        "name_len": 28,
+        "rect": "(44,0)-(2560,48) w=2516 h=48",
+        "has_text_pattern": false
+      },
+      {
+        "index": 1,
+        "control_type": "Pane",
+        "class_name": "ReunionWindowingCaptionControls",
+        "automation_id": "",
+        "name": "AppWindow Custom Title Bar",
+        "name_len": 26,
+        "rect": "(2416,0)-(2560,48) w=144 h=48",
+        "has_text_pattern": false
+      },
+      {
+        "index": 2,
+        "control_type": "Button",
+        "class_name": "",
+        "automation_id": "Minimize",
+        "name": "Minimize",
+        "name_len": 8,
+        "rect": "(2416,0)-(2464,48) w=48 h=48",
+        "has_text_pattern": false
+      },
+      {
+        "index": 3,
+        "control_type": "Button",
+        "class_name": "",
+        "automation_id": "Restore",
+        "name": "Restore",
+        "name_len": 7,
+        "rect": "(2464,0)-(2512,48) w=48 h=48",
+        "has_text_pattern": false
+      },
+      {
+        "index": 4,
+        "control_type": "Button",
+        "class_name": "",
+        "automation_id": "Close",
+        "name": "Close",
+        "name_len": 5,
+        "rect": "(2512,0)-(2560,48) w=48 h=48",
+        "has_text_pattern": false
+      },
+      {
+        "index": 5,
+        "control_type": "Pane",
+        "class_name": "Microsoft.UI.Content.DesktopChildSiteBridge",
+        "automation_id": "",
+        "name": "",
+        "name_len": 0,
+        "rect": "(0,0)-(2560,1392) w=2560 h=1392",
+        "has_text_pattern": false
+      },
+      {
+        "index": 6,
+        "control_type": "Group",
+        "class_name": "InputSiteWindowClass",
+        "automation_id": "",
+        "name": "",
+        "name_len": 0,
+        "rect": "(0,0)-(2560,1392) w=2560 h=1392",
+        "has_text_pattern": false
+      },
+      {
+        "index": 7,
+        "control_type": "Button",
+        "class_name": "",
+        "automation_id": "backButton",
+        "name": "戻る",
+        "name_len": 2,
+        "rect": "(8,6)-(44,42) w=36 h=36",
+        "has_text_pattern": false
+      },
+      {
+        "index": 8,
+        "control_type": "Text",
+        "class_name": "",
+        "automation_id": "",
+        "name": "Kindle",
+        "name_len": 6,
+        "rect": "(79,16)-(114,32) w=35 h=16",
+        "has_text_pattern": true
+      },
+      {
+        "index": 9,
+        "control_type": "Button",
+        "class_name": "",
+        "automation_id": "settings-menu-button",
+        "name": "設定",
+        "name_len": 2,
+        "rect": "(2376,6)-(2412,42) w=36 h=36",
+        "has_text_pattern": false
+      },
+      {
+        "index": 10,
+        "control_type": "Group",
+        "class_name": "",
+        "automation_id": "page-chevron-container-left",
+        "name": "",
+        "name_len": 0,
+        "rect": "(0,48)-(111,1392) w=111 h=1344",
+        "has_text_pattern": false
+      },
+      {
+        "index": 11,
+        "control_type": "Button",
+        "class_name": "",
+        "automation_id": "left",
+        "name": "次のページ",
+        "name_len": 5,
+        "rect": "(30,694)-(82,746) w=52 h=52",
+        "has_text_pattern": false
+      },
+      {
+        "index": 12,
+        "control_type": "Group",
+        "class_name": "",
+        "automation_id": "page-chevron-container-right",
+        "name": "",
+        "name_len": 0,
+        "rect": "(2449,48)-(2560,1392) w=111 h=1344",
+        "has_text_pattern": false
+      },
+      {
+        "index": 13,
+        "control_type": "Button",
+        "class_name": "",
+        "automation_id": "right",
+        "name": "前のページ",
+        "name_len": 5,
+        "rect": "(2479,694)-(2531,746) w=52 h=52",
+        "has_text_pattern": false
+      },
+      {
+        "index": 14,
+        "control_type": "Button",
+        "class_name": "",
+        "automation_id": "scrubber-back-button",
+        "name": "153に戻る",
+        "name_len": 6,
+        "rect": "(2355,1320)-(2449,1353) w=94 h=33",
+        "has_text_pattern": false
+      },
+      {
+        "index": 15,
+        "control_type": "Text",
+        "class_name": "",
+        "automation_id": "button-pill-label",
+        "name": "153に戻る",
+        "name_len": 6,
+        "rect": "(2372,1327)-(2433,1347) w=61 h=20",
+        "has_text_pattern": true
+      },
+      {
+        "index": 16,
+        "control_type": "Text",
+        "class_name": "",
+        "automation_id": "FooterLabelText",
+        "name": "ページ174/203  • 82%",
+        "name_len": 17,
+        "rect": "(1222,1353)-(1338,1369) w=116 h=16",
+        "has_text_pattern": true
+      },
+      {
+        "index": 17,
+        "control_type": "Group",
+        "class_name": "",
+        "automation_id": "slider-overlay",
+        "name": "",
+        "name_len": 0,
+        "rect": "(111,1321)-(2343,1353) w=2232 h=32",
+        "has_text_pattern": false
+      },
+      {
+        "index": 18,
+        "control_type": "Button",
+        "class_name": "",
+        "automation_id": "tocButton",
+        "name": "目次",
+        "name_len": 2,
+        "rect": "(12,56)-(48,92) w=36 h=36",
+        "has_text_pattern": false
+      },
+      {
+        "index": 19,
+        "control_type": "Text",
+        "class_name": "",
+        "automation_id": "toolbar-title",
+        "name": "人間とは何か？ 自己啓発の劇薬　マーク・トウェインの教え",
+        "name_len": 28,
+        "rect": "(212,62)-(2348,87) w=2136 h=25",
+        "has_text_pattern": true
+      },
+      {
+        "index": 20,
+        "control_type": "Button",
+        "class_name": "",
+        "automation_id": "searchButton",
+        "name": "検索",
+        "name_len": 2,
+        "rect": "(2336,56)-(2372,92) w=36 h=36",
+        "has_text_pattern": false
+      },
+      {
+        "index": 21,
+        "control_type": "Button",
+        "class_name": "",
+        "automation_id": "notebookButton",
+        "name": "ノート",
+        "name_len": 3,
+        "rect": "(2380,56)-(2416,92) w=36 h=36",
+        "has_text_pattern": false
+      },
+      {
+        "index": 22,
+        "control_type": "Button",
+        "class_name": "",
+        "automation_id": "aaMenuButton",
+        "name": "ページ設定",
+        "name_len": 5,
+        "rect": "(2424,56)-(2460,92) w=36 h=36",
+        "has_text_pattern": false
+      },
+      {
+        "index": 23,
+        "control_type": "Button",
+        "class_name": "",
+        "automation_id": "fullscreen-button",
+        "name": "全画面表示にする",
+        "name_len": 8,
+        "rect": "(2468,56)-(2504,92) w=36 h=36",
+        "has_text_pattern": false
+      },
+      {
+        "index": 24,
+        "control_type": "Button",
+        "class_name": "",
+        "automation_id": "moreMenuButton",
+        "name": "もっと",
+        "name_len": 3,
+        "rect": "(2512,56)-(2548,92) w=36 h=36",
+        "has_text_pattern": false
+      },
+      {
+        "index": 25,
+        "control_type": "Button",
+        "class_name": "",
+        "automation_id": "bookmark-button",
+        "name": "ブックマークを追加する",
+        "name_len": 11,
+        "rect": "(12,100)-(48,124) w=36 h=24",
+        "has_text_pattern": false
+      },
+      {
+        "index": 26,
+        "control_type": "TitleBar",
+        "class_name": "",
+        "automation_id": "",
+        "name": "",
+        "name_len": 0,
+        "rect": "(0,-5)-(2560,0) w=2560 h=5",
+        "has_text_pattern": false
+      },
+      {
+        "index": 27,
+        "control_type": "MenuBar",
+        "class_name": "",
+        "automation_id": "MenuBar",
+        "name": "システム",
+        "name_len": 4,
+        "rect": "(0,0)-(22,22) w=22 h=22",
+        "has_text_pattern": false
+      },
+      {
+        "index": 28,
+        "control_type": "MenuItem",
+        "class_name": "",
+        "automation_id": "",
+        "name": "システム",
+        "name_len": 4,
+        "rect": "(0,0)-(22,22) w=22 h=22",
+        "has_text_pattern": false
+      },
+      {
+        "index": 29,
+        "control_type": "Button",
+        "class_name": "",
+        "automation_id": "",
+        "name": "最小化",
+        "name_len": 3,
+        "rect": "(0,0)-(0,0) w=0 h=0",
+        "has_text_pattern": false
+      },
+      {
+        "index": 30,
+        "control_type": "Button",
+        "class_name": "",
+        "automation_id": "",
+        "name": "元のサイズに戻す",
+        "name_len": 8,
+        "rect": "(0,0)-(0,0) w=0 h=0",
+        "has_text_pattern": false
+      },
+      {
+        "index": 31,
+        "control_type": "Button",
+        "class_name": "",
+        "automation_id": "",
+        "name": "閉じる",
+        "name_len": 3,
+        "rect": "(0,0)-(0,0) w=0 h=0",
+        "has_text_pattern": false
+      }
+    ]
+  },
+  {
+    "window": {
+      "title": "Kindle",
+      "class": "Microsoft.UI.Windowing.Window",
+      "handle": 411373456
+    },
+    "elements": [
+      {
+        "index": 0,
+        "control_type": "",
+        "class_name": "InputNonClientPointerSource",
+        "automation_id": "",
+        "name": "Non Client Input Sink Window",
+        "name_len": 28,
+        "rect": "(44,0)-(2560,48) w=2516 h=48",
+        "has_text_pattern": false
+      },
+      {
+        "index": 1,
+        "control_type": "",
+        "class_name": "ReunionWindowingCaptionControls",
+        "automation_id": "",
+        "name": "ReunionCaptionControlsWindow",
+        "name_len": 28,
+        "rect": "(2416,0)-(2560,48) w=144 h=48",
+        "has_text_pattern": false
+      },
+      {
+        "index": 2,
+        "control_type": "",
+        "class_name": "Microsoft.UI.Content.DesktopChildSiteBridge",
+        "automation_id": "",
+        "name": "",
+        "name_len": 0,
+        "rect": "(0,0)-(2560,1392) w=2560 h=1392",
+        "has_text_pattern": false
+      },
+      {
+        "index": 3,
+        "control_type": "",
+        "class_name": "InputSiteWindowClass",
+        "automation_id": "",
+        "name": "",
+        "name_len": 0,
+        "rect": "(0,0)-(0,0) w=0 h=0",
+        "has_text_pattern": false
+      }
+    ]
+  },
+  {
+    "window": {
+      "title": "コレクションのインポート",
+      "class": "Qt5QWindowIcon",
+      "handle": 2369158
+    },
+    "elements": []
+  },
+  {
+    "window": {
+      "title": "村田恵介's Kindle for Windows",
+      "class": "Qt5QWindowIcon",
+      "handle": 42081574
+    },
+    "elements": [
+      {
+        "index": 0,
+        "control_type": "",
+        "class_name": "Qt5QWindowIcon",
+        "automation_id": "",
+        "name": "KatxopoApp",
+        "name_len": 10,
+        "rect": "(839,396)-(939,426) w=100 h=30",
+        "has_text_pattern": false
+      },
+      {
+        "index": 1,
+        "control_type": "",
+        "class_name": "Qt5QWindowIcon",
+        "automation_id": "",
+        "name": "KatxopoApp",
+        "name_len": 10,
+        "rect": "(839,396)-(939,426) w=100 h=30",
+        "has_text_pattern": false
+      },
+      {
+        "index": 2,
+        "control_type": "",
+        "class_name": "Qt5QWindowIcon",
+        "automation_id": "",
+        "name": "KatxopoApp",
+        "name_len": 10,
+        "rect": "(839,396)-(939,426) w=100 h=30",
+        "has_text_pattern": false
+      },
+      {
+        "index": 3,
+        "control_type": "",
+        "class_name": "Shell Embedding",
+        "automation_id": "",
+        "name": "",
+        "name_len": 0,
+        "rect": "(839,396)-(939,426) w=100 h=30",
+        "has_text_pattern": false
+      },
+      {
+        "index": 4,
+        "control_type": "",
+        "class_name": "Shell DocObject View",
+        "automation_id": "",
+        "name": "",
+        "name_len": 0,
+        "rect": "(839,396)-(939,426) w=100 h=30",
+        "has_text_pattern": false
+      },
+      {
+        "index": 5,
+        "control_type": "",
+        "class_name": "Internet Explorer_Server",
+        "automation_id": "",
+        "name": "",
+        "name_len": 0,
+        "rect": "(839,396)-(939,426) w=100 h=30",
+        "has_text_pattern": false
+      },
+      {
+        "index": 6,
+        "control_type": "",
+        "class_name": "Qt5QWindowIcon",
+        "automation_id": "",
+        "name": "KatxopoApp",
+        "name_len": 10,
+        "rect": "(839,396)-(2582,446) w=1743 h=50",
+        "has_text_pattern": false
+      },
+      {
+        "index": 7,
+        "control_type": "",
+        "class_name": "Qt5QWindowIcon",
+        "automation_id": "",
+        "name": "KatxopoApp",
+        "name_len": 10,
+        "rect": "(839,396)-(1721,444) w=882 h=48",
+        "has_text_pattern": false
+      },
+      {
+        "index": 8,
+        "control_type": "",
+        "class_name": "Qt5QWindowIcon",
+        "automation_id": "",
+        "name": "KatxopoApp",
+        "name_len": 10,
+        "rect": "(839,396)-(939,426) w=100 h=30",
+        "has_text_pattern": false
+      },
+      {
+        "index": 9,
+        "control_type": "",
+        "class_name": "Qt5QWindowIcon",
+        "automation_id": "",
+        "name": "KatxopoApp",
+        "name_len": 10,
+        "rect": "(839,396)-(939,426) w=100 h=30",
+        "has_text_pattern": false
+      },
+      {
+        "index": 10,
+        "control_type": "",
+        "class_name": "Qt5QWindowIcon",
+        "automation_id": "",
+        "name": "KatxopoApp",
+        "name_len": 10,
+        "rect": "(839,396)-(939,426) w=100 h=30",
+        "has_text_pattern": false
+      },
+      {
+        "index": 11,
+        "control_type": "",
+        "class_name": "Qt5QWindowIcon",
+        "automation_id": "",
+        "name": "KatxopoApp",
+        "name_len": 10,
+        "rect": "(839,396)-(939,426) w=100 h=30",
+        "has_text_pattern": false
+      }
+    ]
+  }
+]
